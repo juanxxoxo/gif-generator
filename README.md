@@ -32,4 +32,5 @@
 
 <h3>Author Info</h3>
 
-- [LinkedIn](www.linkedin.com/in/juan-pardoca)
+- [LinkedIn](https://www.linkedin.com/in/juan-pardoca/)
+
