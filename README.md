@@ -19,3 +19,7 @@
 - Generating output using a third party API.
 - Implementing code to handle errors if the element does not load on time.
 - Practicing modularity thus I optimized my development cycle to 90%. 
+
+- item 1
+- item 2
+- item 3
